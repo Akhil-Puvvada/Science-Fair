@@ -68,3 +68,19 @@ The goal of this project is to investigate whether machine learning can combine 
 Rather than diagnosing cancer directly, the model aims to estimate whether biomarker patterns suggest a higher likelihood of bladder cancer.
 
 If successful, this type of approach could help identify patients who may benefit from further diagnostic testing.
+
+---
+
+## Important Biomarkers Studied
+
+Several urinary biomarkers are commonly studied in bladder cancer research.
+
+NMP22 is a protein released by dying tumor cells.
+
+BTA (Bladder Tumor Antigen) is another protein associated with bladder tumors.
+
+Some bladder cancers also contain genetic mutations such as TERT and FGFR3. 
+Fragments of this DNA can sometimes be detected in urine.
+
+Because no single biomarker is perfectly reliable, researchers are exploring 
+whether combining multiple biomarkers using machine learning can improve detection.
